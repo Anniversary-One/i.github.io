@@ -3,8 +3,9 @@
 }
 
 body{
-    background-image:url("./rabbit-g486277460_1280.png");
+    background: url(./rabbit-g486277460_1280.png) no-repeat;
     background-size: cover;
+    background-attachment: fixed;
 }
 
 h1{
