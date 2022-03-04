@@ -4,7 +4,8 @@
 
 body{
     background-image:url("./rabbit-g486277460_1280.png");
-    background-size: cover;
+    background-repeat:no-repeat；
+    background-size:100%;
 }
 
 h1{
